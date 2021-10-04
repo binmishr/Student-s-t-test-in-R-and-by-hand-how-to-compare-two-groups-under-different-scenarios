@@ -1,0 +1,1 @@
+# Student-s-t-test-in-R-and-by-hand-how-to-compare-two-groups-under-different-scenarios
